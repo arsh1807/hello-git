@@ -1,8 +1,8 @@
 git init : this command is used to initialize git.
 git config--global user.name " " : this command helps git to recognize its user via its username.
-git config--global user.email " " : this command helps git to recognize its user via its email                                     address.
-git clone : git clone plus the link copied from github is used to create a copy of your             current repository on your working directory.
-git add -A : this command helps to push data from working directory to stagged area. This is known as              stagging.
-git commit : this command is used to commit. git commit  -m " " is used to commit and it displays                   a message too.
+git config--global user.email " " : this command helps git to recognize its user via its email address.
+git clone : git clone plus the link copied from github is used to create a copy of your current repository on your working directory.
+git add -A : this command helps to push data from working directory to stagged area. This is known as stagging.
+git commit : this command is used to commit. git commit  -m " " is used to commit and it displays a message too.
 git push -u origin master : this command is used to upload the document to github.
 
